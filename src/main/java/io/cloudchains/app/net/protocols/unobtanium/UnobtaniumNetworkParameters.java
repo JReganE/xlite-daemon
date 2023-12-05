@@ -27,7 +27,7 @@ public class UnobtaniumNetworkParameters extends NetworkParameters {
 
     @Override
     public Coin getMinNonDustOutput() {
-        return Coin.valueOf(546)
+        return Coin.valueOf(546);
     }
 
     @Override
